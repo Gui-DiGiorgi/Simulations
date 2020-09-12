@@ -3,6 +3,7 @@
 # The little block inside them indicates their energy supply, the whiter, the bigger. When they have too much energy, they create children. 
 # They can also die of old age or hunger. If they die of hunger, they don't create a food corpse, but if they die of old age and still have good energy, 
 # they leave a little food block behind.
+# I leave to the person that run this code to see how the number of animals and food relates as time goes on.
 
 import pygame
 from pygametexting import pyg_text
